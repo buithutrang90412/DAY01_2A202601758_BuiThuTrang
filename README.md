@@ -187,10 +187,10 @@ thật). Repo để Public, hoặc Private và mời tài khoản GitHub của g
 
 ## Danh Sách Kiểm Tra Nộp Bài
 
-- [ ] `pytest tests/ -v` — các checkpoint đều pass
-- [ ] `python grade.py` — xem điểm, mục tiêu ≥ 75/100
-- [ ] `solution/exercises.md` — cả 9 câu đã trả lời
-- [ ] `solution/solution.py` — bản code cuối cùng
-- [ ] Repo đặt tên đúng quy ước `DAY01-MSSV-HoVaTen` (viết liền, không dấu)
-- [ ] Đã push lên GitHub, repo KHÔNG chứa file `.env`
-- [ ] Đã nộp link repo vào vlearn trước 18h00
+- [x] `pytest tests/ -v` — các checkpoint đều pass
+- [x] `python grade.py` — xem điểm, mục tiêu ≥ 75/100
+- [x] `solution/exercises.md` — cả 9 câu đã trả lời
+- [x] `solution/solution.py` — bản code cuối cùng
+- [x] Repo đặt tên đúng quy ước `DAY01-MSSV-HoVaTen` (viết liền, không dấu)
+- [x] Đã push lên GitHub, repo KHÔNG chứa file `.env`
+- [x] Đã nộp link repo vào vlearn trước 18h00
